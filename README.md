@@ -117,7 +117,7 @@ Write HTML and CSS code for designing book cover and execute them.
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>Sanjitha</b></p>
+               <p><b>NiteeshMohan</b></p>
             </div>
             <div class="pub">
                 SEC
